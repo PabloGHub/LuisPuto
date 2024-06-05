@@ -1,4 +1,10 @@
+import json
 
-while True:
-    print('¿Luis es Puto? (0 No | 1 Sí)')
+
+with open('mensajes.json', 'r', encoding='utf8') as _f:
+    _Datos = json.load(_f)
+
+# while True:
+    print(_Datos['pregunta'])
     _r = input()
+    
