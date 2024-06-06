@@ -1,6 +1,6 @@
 {
-    "pregunta":"¿Luis es Puto?",
+    "pregunta":"### es Puto?",
     "acciones":"(Si 1 / No 2)",
-    "si":"¡¡¡Luis es Puto!!!",
+    "si":"¡¡¡### es Puto!!!",
     "no":"¡¿Como que no?!"
 }
